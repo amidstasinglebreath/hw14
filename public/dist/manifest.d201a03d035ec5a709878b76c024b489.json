@@ -1,0 +1,48 @@
+{
+  "icons": [
+    {
+      "src": "images/icons/icon_512x512.3917e7790b6afd78aa60c53c321b52ae.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon_384x384.2ff87374434441327a8bdcffe1b245a2.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon_256x256.e83eb4c67e07358db77090f75a691b60.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon_192x192.d61757a5d74a1ad113e27f913b5cf88e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon_128x128.f98681a419759eaf5136618e6eb129a9.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon_96x96.664fcfb83748257017c4e9f80c511798.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon_64x64.08ced7a66ce800931472e6a45949732a.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "name": "Budget Tracker",
+  "short_name": "Budget Tracket",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "An application that allows you to keep track of all your budgets.",
+  "background_color": "#01579b",
+  "theme_color": "#ffffff",
+  "theme-color": "#ffffff"
+}
